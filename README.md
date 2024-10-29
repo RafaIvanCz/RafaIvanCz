@@ -1,8 +1,13 @@
-# Hello! I'm Iván! Full Stack Developer
-
-## About me
-
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
-## Contact me
-
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+<p align="center" width="300">
+   <img align="center" width="200" src="" />
+   <h3 align="center">¡Hi, there 👋! I'm Iván 👨🏻‍💻</h3>
+</p>
+<p align="center">I'm a <strong>Jr Full Stack Software Developer</strong> <br/>¡Here you can check my content 👇!</p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/rafael-ivan-cruz/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ivancz" height="28px" width="28px" />
+  </a>
+  <a href="https://www.instagram.com/ivan.cz/" target="blank">
+    <img align="center" style="background-color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ivancz" height="28px" width="28px" />
+  </a>
+</p>
